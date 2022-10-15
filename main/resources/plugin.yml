@@ -1,0 +1,4 @@
+name: ElevatorA
+version: '${project.version}'
+main: azuazu3939.elevatora.ElevatorA
+api-version: 1.17
